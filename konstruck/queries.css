@@ -1,0 +1,413 @@
+@media(max-width:2560px){
+    .hero-container{
+    background-size: 3650px;}
+    .about-section{
+        width: 100%;
+    }
+}
+@media(max-width:1440px){
+    .main-parent{
+        width: 90em;
+    }
+    .header-secton-1{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .main-header-1{
+        padding: 0 120px 0 120px;
+    }
+    .header{
+        width: 90em;
+    }
+    .hero-container{
+        background-size: 2050px;
+    }
+    .site-logo{
+        width: 25%;
+    }
+    .hero-section{
+        width:90em;
+    }
+    .about-section{
+        width: 90em;
+    }
+    .section-services{
+        width: 90em;
+    }
+    .section-counter{
+        width: 90em;
+    }
+    .section-project{
+        width:90em;
+    }
+    .our-testimonials{
+        width: 90em;
+    }
+    .lets-talk{
+        width: 90em;
+    }
+    .news-blogs{
+        width: 90em;
+        background-image: url(images/double-sec-bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .section-logos{
+        width: 90em;
+    }
+    .contact-us-section{
+        width:90em;
+    }
+    .section-footer{
+        width: 90em;
+    }
+}
+@media(max-width:1024px){
+    .main-parent{
+        width: 90em;
+    }
+    .header{
+        width: 90em;
+    }
+    .site-logo{
+        width: 30%;
+    }
+    .main-header-1{
+        padding: 0 90px 0 90px;
+    }
+    .logo1{
+        width: 70%;
+    }
+   .menu{
+    padding-right: 150px;
+   }
+   .hero-container{
+    padding: 200px 80px 220px 80px;
+    background-size: 2500px;
+   }
+   .about-main-container{
+    padding:100px 80px 100px 80px;
+   }
+   .services-slider{
+    display: flex;
+    justify-content: center;
+   }
+   .slider1{
+    width: 23em;
+    height: 23em;
+   }
+   .slider2{
+    width: 23em;
+    height: 23em;
+   }
+   .slider3{
+    display: none;
+   }
+   .counter{
+    padding: 120px 80px 120px 80px;
+   }
+   .project-carousel{
+    display: flex;
+    justify-content: center;
+   }
+   .slider-heading{
+    margin-bottom: 30px;
+   }
+   .slider-paragraph{
+    font-size: 20px;
+    margin-bottom: 30px;
+   }
+   .carousel-first-section{
+    width: 25em;
+   }
+   .carousel-second-section{
+    width: 25em;
+   }
+   .carousel-third-section{
+    display: none;
+   }
+   .carousel-fourth-section{
+    display: none;
+   }
+   .news-blog-posts{
+    display: flex;
+    justify-content: center;
+   }
+   .post-1{
+    width: 22em;
+   }
+   .post-2{
+    width: 22em;
+   }
+   .post-3{
+    display: none;
+   }
+   .logo-01{
+    display: flex;
+    justify-content: center;
+    }
+    .image{
+        width: 10em;
+        height: 10em;
+    }
+   .inner-logo5{
+    display: none;
+   }
+   .inner-logo6{
+    display: none;
+   }
+}
+@media(max-width:768px){
+    .main-parent{
+        width: 92.2em;
+    }
+    .header-secton-2{
+        display: none;
+    }
+    .logo1{
+        width: 100%;
+    }
+    .contact-bar{
+        display: none;
+    }
+    .tab-icon{
+        display: block;
+    }
+    .header{
+        width: 92.2em;
+    }
+    .hero-section{
+        width:92.2em;
+    }
+    .about-section{
+        width:92.2em;
+    }
+    .about-main-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-image{
+        width: 60em;
+        height: 60em;
+    }
+    .section-services{
+        width:92.2em;
+    }
+    .row{
+        gap: 140px;
+    }
+    .counter-number{
+        margin-bottom: 40px;
+    }
+    .section-counter{     
+         width:92.2em;}
+    .counter{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 40px;
+    }
+    .section-project{
+        width:92.2em;
+    }
+    .our-testimonials{
+        width:92.2em;
+    }
+    .testimonial-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .testimonial-main-image{
+        width: 45em;
+    }
+    .testimonail-quote-paragraph{
+        width: 50.2em;
+    }
+    .testimonail-text-container{
+        margin-bottom: 50px;
+    }
+    .lets-talk{
+        width:92.2em;
+    }
+    .news-blogs{
+        width: 92.2em;
+    }
+    .section-logos{
+        width: 92.2em;
+    }
+    .lets-talk-middle-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .lets-talk-heading{
+        margin-bottom: 40px;
+    }
+    .lets-talk-text{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .lets-talk-button{
+        text-align: center;
+    }
+    .contact-us-section{
+        width: 92.2em;
+    }
+    .contact-us-row{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .form-control{
+        width: 38.1em;
+        height: 5em;
+    }
+    .form-control2{
+        width: 81.1em;
+        height: 12em;
+    }
+
+    .contact-form-row{
+        display: grid;
+        grid-template-columns: 45% 45%;
+        column-gap: 60px;
+    }
+    .contact-column2{
+        padding: 0;
+    }
+    .section-2{
+    padding-left: 40px;
+    }
+    .contact1{
+        height: 7em;
+    }
+    .contact2{
+        height: 7em;
+    }
+    .contact3{
+        height: 7em;
+    }
+    .contact-map{
+        margin-top: -20px;
+    }
+    .map{
+        padding: 0px 50px 100px 40px;
+        width: 93%;
+    }
+    .section-footer{
+        width: 92.2em;
+    }
+    .footer-top{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    .footer-main-logo{
+        width: 20%;
+    }
+    .footer-placeholder{
+        width: 90.5%;
+        height: 50px;
+    }
+    .content-paragrph{
+        font-size: 20px;
+    }
+    .footer-contact-info-heading{
+        margin-bottom: 30px;
+    }
+    .footer-button{
+        width: 83%;
+        height: 80px;
+    }
+    .link-paragraph{
+        line-height: 1.9;
+    }
+    .footer-bottom-cotainer-middle{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        gap: 20px;
+    }
+    .copy-right-menu{
+        text-align: center;
+    }
+}
+@media(max-width:425px){
+    .logo1{
+        width: 100%;
+    }
+    .paragraph1{
+        font-weight: 300;
+        color: #555;
+    }
+    .about-image{
+        width: 79em;
+        height: 79em;
+    }
+    .about-heading{
+        font-size: 20px;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .slider1{
+        width: 25em;
+        height: 25em;
+    }
+    .slider2{
+        display: none;
+    }
+    .inner-logo3{
+        display: none;
+    }
+    .inner-logo4{
+        display: none;
+    }
+    .counter{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .counter-number{
+        width: 300px;
+    }
+    .number{
+        margin-bottom: 10px;
+    }
+    .carousel-first-section{
+        width: 50em;
+        height: 50em;
+    }
+    .carousel-second-section{
+        display: none;
+    }
+    .testimonial-main-image{
+        width: 65em;
+    }
+    .post-1{
+        width: 40em;
+    }
+    .post-2{
+        display: none;
+    }
+    .contact-form-row{
+        display: flex;
+        flex-direction: column;
+    }
+    .form-control{
+        width: 80em;
+        height: 7em;
+    }
+    .form-control2{
+        width: 80em;
+        height: 14em;
+    }
+    .footer-main-logo{
+        width: 30%;
+    }
+    .footer-bottom-cotainer-middle{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
